@@ -1,1 +1,1 @@
-# pig-latin
+A webpage that translates text in English to Pig Latin.
